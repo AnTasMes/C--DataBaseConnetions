@@ -1,0 +1,17 @@
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\bin\Debug\SimoAndrej.exe.config
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\bin\Debug\SimoAndrej.exe
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\bin\Debug\SimoAndrej.pdb
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\bin\Debug\MySql.Data.dll
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\bin\Debug\Google.Protobuf.dll
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\bin\Debug\MySql.Data.xml
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.csprojAssemblyReference.cache
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.Login.resources
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.Properties.Resources.resources
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.csproj.GenerateResource.cache
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.csproj.CopyComplete
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.exe
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.pdb
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.houseLayout.resources
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.prviSprat.resources
+C:\Users\akita\OneDrive\Desktop\VIsual studio projects\SimoAndrej\SimoAndrej\obj\Debug\SimoAndrej.drugiSprat.resources
